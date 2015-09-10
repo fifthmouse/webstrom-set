@@ -1,0 +1,63 @@
+<keymap version="1" name="Default fm" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift control Z" />
+    <keyboard-shortcut first-keystroke="shift alt BACK_SPACE" />
+    <keyboard-shortcut first-keystroke="control Y" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="control SPACE" />
+    <keyboard-shortcut first-keystroke="alt Z" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="control Y" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt INSERT" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="control DIVIDE" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift control alt R" />
+  </action>
+  <action id="NewDirectoryProject">
+    <keyboard-shortcut first-keystroke="shift control P" />
+  </action>
+  <action id="NewHtmlFile">
+    <keyboard-shortcut first-keystroke="shift alt H" />
+  </action>
+  <action id="NewJavaScriptFile">
+    <keyboard-shortcut first-keystroke="control alt 3" />
+  </action>
+  <action id="NewStylesheetFile">
+    <keyboard-shortcut first-keystroke="control alt 2" />
+  </action>
+  <action id="OpenEditorInOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift control alt D" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift control O" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift control alt 2" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift control alt 1" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+</keymap>
