@@ -1,0 +1,11 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift control alt R" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift control alt 2" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift control alt 1" />
+  </action>
+</keymap>
