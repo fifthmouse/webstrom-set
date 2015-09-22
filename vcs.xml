@@ -14,8 +14,12 @@
           <option name="url" value="http://git.oschina.net/fifthmouse/fifthmouse-notes" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.oschina.net/fifthmouse/YET-Site.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\my-note" />
+    <option name="cloneParentDir" value="E:\my-work\2015-09-06-易尔特汽车清漆\YET-Site" />
   </component>
 </application>
