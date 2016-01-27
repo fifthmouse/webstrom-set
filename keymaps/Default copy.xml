@@ -2,6 +2,12 @@
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift control alt R" />
   </action>
+  <action id="NewJavaScriptFile">
+    <keyboard-shortcut first-keystroke="control alt 3" />
+  </action>
+  <action id="NewStylesheetFile">
+    <keyboard-shortcut first-keystroke="control alt 2" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift control alt 2" />
   </action>
